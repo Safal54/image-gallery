@@ -4,7 +4,7 @@ import random
 import smtplib
 
 my_email="safalbohora2000@gmail.com"
-password="mcwpwhznzyomvxkb"
+password="mcwpwhznzyomv"
 
 #----making today's date touple----------
 today_date=dt.datetime.now()
